@@ -31,7 +31,7 @@ El objetivo principal del proyecto es reforzar el uso de condicionales, variable
 - Programación estructurada  
 
 #
-## ⚙️ Funcionamiento
+### ⚙️ Funcionamiento
 1. El programa muestra un menú con las figuras geométricas disponibles.
 2. El usuario selecciona la figura que desea calcular.
 3. Se solicitan las medidas necesarias según la figura elegida.
@@ -39,3 +39,13 @@ El objetivo principal del proyecto es reforzar el uso de condicionales, variable
 5. El resultado se muestra en consola de forma clara.
 6. El programa valida opciones incorrectas ingresadas por el usuario.
 
+#
+### ▶️ Cómo usar el proyecto
+Tienes dos opciones para obtener el código:
+1. **Descargar directamente:**
+   Haz clic en el botón verde code y selecciona download zip.
+
+2. **Clonar con git:**
+   ```bash
+   git clone https://github.com/tu-usuario/tu-repositorio.git
+   ```
