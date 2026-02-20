@@ -3,7 +3,6 @@
 <img src="imagen_presentacion.png" alt="Presentación" width="205" align="left" style="margin-right:20px; border-radius:5px;">  
 <p style="text-align: justify;">
 
-## 📌 Descripción
 Este proyecto consiste en el desarrollo de una calculadora de áreas en consola utilizando Python. El programa permite calcular el área de diferentes figuras geométricas, como cuadrado, rectángulo y círculo, a partir de las medidas ingresadas por el usuario.
 
 El sistema presenta un menú de opciones donde el usuario selecciona la figura geométrica deseada y posteriormente introduce los valores necesarios para realizar el cálculo. El resultado se muestra en pantalla de forma clara y legible, evitando decimales innecesarios cuando no son requeridos.
